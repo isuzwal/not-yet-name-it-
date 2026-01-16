@@ -8,7 +8,7 @@ import { Bot, BrainCog, MessageCircle, Square } from "lucide-react";
 
 export const Navbara = () => {
   return (
-    <nav className=" max-w-3xl mx-auto w-full   flex items-center   py-2.5">
+    <nav className=" max-w-5xl mx-auto w-full   flex items-center   py-2.5">
       <div className="w-full flex items-center justify-between px-1.5">
         <motion.div
           initial={{ opacity: 0, x: -5 }}
